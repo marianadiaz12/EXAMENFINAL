@@ -1,0 +1,167 @@
+/*INICIO CSS MARIANA*/
+.fon{
+	background-image: url("../img/background/hero.jpg");
+	padding: 30px; 
+}	
+.menu{
+	display: inline-block;
+	padding: 5px;
+}
+li a:hover { 
+	color: #58D3F7; 
+}
+
+.menref{
+	text-decoration: none;
+	color: white;
+}
+.bot{
+	font-size: 20px;
+	margin-bottom: 300px;
+	height: 50px;
+	width: 200px;
+	border:none;
+}
+.bot1{
+	background-color: #2E2E2E;
+}
+
+.bot2{
+	margin-bottom: 20px;
+	background-color: #2E2E2E
+}
+.esp{
+	padding: 0% 10%;
+	margin-bottom: 5%;
+	margin-top: 
+}
+
+h1{
+	margin-top: 10%;
+}
+
+.fonciu{
+	background-image: url("../img/background/city.jpg");
+	background-size: cover;	
+}
+
+h3{
+	margin: 15%;
+}
+
+.gra{
+	background-color: #2E2E2E;
+	margin:10px 10px 0px 10px;
+}
+
+.back-whi{
+	background-color: white;
+	padding: 50px;
+}
+
+
+hr{
+	text-align: center;
+	margin: 5%;
+}
+
+.bk-b{
+	background-color: #01A9DB;
+	margin:10px 10px 0px 10px;
+}
+
+.cat{
+	font-size: 30px;
+}
+
+.pri{
+	margin:0px 10px 0px 10px;
+}
+.parp{
+	padding: 50px 0px;
+}
+.ma{
+	margin-top: 50px;
+}
+/*FIN DE CCS MARIANA*/
+
+/*INICIO CSS HASS*/
+#imglaptops{
+  background-image: url("../img/laptop-features.png");
+  height: 500px;
+}
+/*SECCION ESCOLAR*/
+.iconoescuela{
+  float: left;
+  height: 40px;
+  margin-right: 15px;
+}
+/*PORTAFOLIO*/
+ul li{
+  display: inline-block;
+}
+.paddingmenu{
+  background-color: white;
+  padding: 10px 20px;
+  color: black;
+}
+.bordeimagen{
+  background-color: white;
+  box-shadow: 4px 2px 14px -4px rgba(92,89,92,1);
+}
+button{
+  border: none;
+  width: 110px;
+  height: 50px;
+}
+.botonload{
+  background-color: #3c3c3e;
+}
+
+h6{
+  font-size: 20px;
+}
+p{
+  color: gray;
+}
+/*CUSTOMERS*/
+.customerchica{
+  border-radius: 100%;
+  width: 10%;
+}
+/*CONTACT US*/
+#imgescritor{
+  background-image: url("../img/background/imageedit_1_5939329460.jpg");
+  height: 550px;
+  background-size: cover;
+}
+input{
+  display: block;
+}
+.botonsubmits{
+  background-color: #24aec7;
+}
+.paddingform{
+  width: 484px;
+  height: 44px;
+  background-color: gray;
+  opacity: .3;
+  border: none;
+}
+.margensendmessage{
+  margin-top: 35px;
+}
+
+/*SECCION FOLLOW US! REDES SOCIALES*/
+.iconosredessoc{
+  height: 50px;
+}
+/*FOOTER*/
+#fondofooter{
+  background-color: #2e2b2f;
+  height: 100px;
+}
+.textfooter{
+  margin-top: 40px;
+}
+
